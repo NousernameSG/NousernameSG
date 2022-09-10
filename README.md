@@ -1,9 +1,11 @@
 <h1 align="center">Hallo, I'm NousernameSG</h1>
-<h3 align="center">An aspiring mathematician and computer professional</h3>
+<h3 align="center">A Mathematics and Computing Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nousernamesg&label=Profile%20views&color=0e75b6&style=flat" alt="nousernamesg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nousernamesg" alt="nousernamesg" /></a> </p>
+
+- 🔭 I’m currently working on [FurtherQ-Problem-Sets](https://github.com/NousernameSG/FurtherQ-Problem-Sets)
 
 - 🌱 I’m currently learning **LaTeX**
 
