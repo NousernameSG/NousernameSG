@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FurtherQ-Problem-Sets](https://github.com/NousernameSG/FurtherQ-Problem-Sets)
 
-- 🌱 I’m currently learning **Latex, CCNA**
+- 🌱 I’m currently learning **Latex, Python**
 
 - 📫 How to reach me **nousernamesg@gmail.com**
 
